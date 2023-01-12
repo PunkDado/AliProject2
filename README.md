@@ -1,0 +1,2 @@
+Projeto idêntico ao que está rodando no alisystem.pythonanywhere.com no dia 11/01/2023  
+A pasta AliProject2 foi baixada diretamente do Python Anywhere (era AliProject, renomeada aqui para diferencias da AliProject, que é uma versão que pode estar ligeiramente desatualizada)
